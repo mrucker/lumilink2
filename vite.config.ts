@@ -50,7 +50,7 @@
         '@': path.resolve(__dirname, './src'),
       },
     },
-    base: '/lumilink/',
+    base: '/',
   build: {
       target: 'esnext',
       outDir: 'build',
